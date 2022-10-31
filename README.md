@@ -1,3 +1,3 @@
 # odin-recipes
-This project is about creating a page for a cake recipe 
-I will be creating an index.html page and adding links of recipes 
+This simple project contains the ingedients, and steps on how to make a cake as well as bread.
+In this project i primaarly used html
